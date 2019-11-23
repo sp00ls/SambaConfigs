@@ -34,3 +34,5 @@ The samba daemon will automatically add a ZFS dataset for each user's private sh
 Time machine backups are managed as a single dataset. I use the encryption built into time machine so I'm not sure ZFS snapshotting would do anything useful for me. The config does enforce each user into their own time machine directory though, so users can not see other user's backups.
 
 The public share is publicly readable/writeable with no username/password.
+
+These configs/scripts should hopefully help you get started quickly after minor changes to fit your specific environment.
