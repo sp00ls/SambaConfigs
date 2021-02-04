@@ -36,3 +36,6 @@ Time machine backups are managed as a single dataset. I use the encryption built
 The public share is publicly readable/writeable with no username/password.
 
 These configs/scripts should hopefully help you get started quickly after minor changes to fit your specific environment.
+
+# Update
+It has been nearly a year and a half since I set this up. I have 2 Macs using it for Time Machine under a single account & various devices using it to store other files. About a month ago one of my Macs went down for a week due to a faulty battery, I was able to use the other Mac to mount the time machine bundle & pull files that I needed in the meantime. Basically, it has worked great & I haven't had any issues with the setup.
